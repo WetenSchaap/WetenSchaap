@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WetenSchaap, a PhD student at the university of Amsterdam.
+- 👋 Hi, I’m @WetenSchaap, a Postdoctoral researcher at the Johannes Gutenberg University Mainz.
 - 👀 I’m interested in soft matter physics, Ig Nobel prizes, and self-hosting
 - 📫 You can find me via my [personal website](https://swnkls.nl/).
 
